@@ -1,0 +1,2 @@
+# vimc
+my vim config
