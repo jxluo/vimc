@@ -1,2 +1,2 @@
-cp -r ~/.vim vim
+cp -r -T ~/.vim vim
 cp ~/.vimrc vimrc
